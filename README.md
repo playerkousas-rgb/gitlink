@@ -96,7 +96,13 @@
 | [argyleink/open-props](https://github.com/argyleink/open-props) | 5.5k | 現成 CSS custom properties 加速一致設計 |
 | [style-dictionary/style-dictionary](https://github.com/style-dictionary/style-dictionary) | 4.9k | 跨平台 design token 建置系統 |
 
-## 9. API 設計規範（Design API）
+## 9. 開源 / 免費 API 資料庫
+
+| 專案 | ⭐ | 用途 |
+| --- | --- | --- |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 490k | 專放開源／免費 API 的集大成清單（天氣、AI、金融、遊戲……分類齊全） |
+
+## 10. API 設計規範（Design API）
 
 | 專案 | ⭐ | 用途 |
 | --- | --- | --- |
@@ -105,7 +111,7 @@
 | [graphql/graphql-spec](https://github.com/graphql/graphql-spec) | 15k | GraphQL 規格 |
 | [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) | 3.3k | Zalando RESTful API 與事件設計典範指引 |
 
-## 10. 其他大型工具
+## 11. 其他大型工具
 
 | 專案 | ⭐ | 用途 |
 | --- | --- | --- |
